@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects related to my study<br>👯 I'd like to collaborate on<br>🤝 I'm looking for help in adding skills I haven't learned before<br>🌱 I'm currently learning mobile apps and want to improve my web development skills<br>⚡ Interesting fact: I often lose track of time when my project crashes
+🔭 I’m currently working on projects related to my study<br>👯 I want to collaborate on a team that is willing to teach me<br>🤝 I'm looking for help in adding skills I haven't learned before<br>🌱 I'm currently learning mobile apps and want to improve my web development skills<br>⚡ Interesting fact: I often lose track of time when my project crashes
 
 
 ## 🌐 Socials:
